@@ -1,2 +1,1 @@
-dlm_jsf_maven
-=============
+== Estudos JSF + JPA + Maven + Hibernate etc ==
