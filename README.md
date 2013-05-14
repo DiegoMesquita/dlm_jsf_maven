@@ -1,1 +1,1 @@
-== Estudos JSF + JPA + Maven + Hibernate etc ==
+== Estudos JSF + JPA + Maven + Hibernate, etc ==
